@@ -1,0 +1,16 @@
+# %YAML 1.2
+---
+  
+production: false
+
+# banco de dados
+database:
+
+  default:
+    driver: mysql
+    host: localhost
+    dbname: hunter_db
+    user: root
+    pass:
+    charset: utf8
+    port:
